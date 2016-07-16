@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ExercicioIntent</string>
+    <string name="botaoGoogleMaps">Google Maps</string>
+    <string name="botaoSMS">Enviar SMS</string>
+    <string name="botaoAlarme">Colocar Alarme</string>
+    <string name="botaoMusica">Abrir Música</string>
+    <string name="botaoBusca">Fazer Busca</string>
+    <string name="botaoConfig">Abrir Configurações</string>
+    <string name="textView">Escolha um dos botões abaixo</string>
+</resources>
